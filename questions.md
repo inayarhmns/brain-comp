@@ -91,3 +91,43 @@ Want to dig deeper into reasoning benchmarks, neuroscience-inspired models, or h
 
 </details>
 
+## is Na+ channel or K+ channel inside or outside of neurons?
+<details>
+<summary>Answer</summary>
+No. they're inside the neurons membrane. The cell membrane is like the skin of the neuron.
+
+Just like your skin separates your insides from the outside world, the neuron’s membrane separates its cytoplasm (inside fluid) from the extracellular space (outside fluid).
+
+The ion channels (Na⁺ channels, K⁺ channels, receptors, pumps) are like tiny doors, gates, or pores built into that skin.
+
+They’re not floating inside the neuron, and they’re not floating outside either.
+
+They’re embedded in the membrane, spanning from the inside to the outside.
+
+
+
+What ion channels actually are
+
+Each Na⁺ or K⁺ channel is a protein embedded in the membrane (the “skin” of the neuron).
+
+When it opens, it forms a pore that connects inside ↔ outside.
+
+So yes: it’s a tunnel through the membrane, not “pointing inward” or “outward.”
+
+2. Do they open to both sides?
+
+Structurally: yes, the pore connects inside and outside.
+
+But ions don’t just move randomly — they move according to:
+
+Concentration gradient (lots → few).
+
+Electrical gradient (opposites attract).
+Together, this is called the electrochemical gradient.
+
+</details>
+
+![Channels](fig/Saltatory.jpg "Channels in membrane")
+
+
+
